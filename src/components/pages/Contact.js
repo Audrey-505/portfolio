@@ -3,6 +3,7 @@ import React, {useEffect, useState} from 'react'
 export default function Contact(){
     const inputStyle = { display: 'block', marginTop: '5px', marginBottom: '5px', width: '50%'}
     const formStyle = {margin: '20px'}
+    const errorStyle = {color: 'red'}
 
     let [email, setEmail] = useState('')
     let [error, setError] = useState(null)
@@ -58,7 +59,7 @@ export default function Contact(){
             <h3>Please complete the form below to reach me with any questions or comments</h3>
             <div>
                 <form style={formStyle} className="form">
-                    <p>{error}</p><p>{warning}</p>
+                    <p style={errorStyle}>{error}</p><p style={errorStyle}>{warning}</p>
                     <input name="fName" style={inputStyle} onChange={handleName} type="text" placeholder="First Name"/>
                     <input name ="email" style={inputStyle} onChange={handleEmail} type="email" placeholder="Email"/>
                     <input name="message" style={inputStyle} onChange={handleInput} type="text" placeholder="Message"/>
