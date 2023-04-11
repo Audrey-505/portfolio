@@ -8,8 +8,10 @@ export default function Resume(){
             <div className="text-center">
             {/* <h1>Reume</h1> */}
             <h3>Click the link below to download my resume</h3>
-            <a href={require("../resume/resume.pdf")}>Adriana's Resume</a>
+            <a href={require("../resume/resume.pdf")}><h4>Adriana's Resume</h4></a>
             </div>
+
+            <hr />
 
             <div>
             A list of a few of the technologies I leverage include: <br/>
@@ -51,9 +53,9 @@ export default function Resume(){
                 <div>
                 <img src={require("../images/html-5.png")} width="5%"/> <img src={require("../images/css-3.png")} width="5%"/> <img src={require("../images/java-script.png")} width="5%"/>
                 <img src={require("../images/bootstrap.png")} width="5%"/> <img src={require("../images/nodejs.png")} width="5%"/> <img src={require("../images/mysql.png")} width="5%"/> 
-                <img src={require("../images/mongoDB.png")} width="5%"/> <img src={require("../images/github.png")} width="5%"/> <img src={require("../images/react.png")} width="5%"/>
+                <img src={require("../images/mongoDB.png")} width="5%"/> <img src={require("../images/ExpressJS-logo.png")} width="10%"/> <img src={require("../images/react.png")} width="5%"/>
                 <img src={require("../images/mongoose.png")} width="10%"/> <img src={require("../images/jquery.png")} width="10%"/> <img src={require("../images/handlebars.png")} width="10%"/>
-                <img src={require("../images/ExpressJS-logo.png")} width="10%"/> <img src={require("../images/restful-api-logo.png")} width="12%"/><br/>
+                <img src={require("../images/github.png")} width="5%"/> <img src={require("../images/restful-api-logo.png")} width="12%"/><br/>
                 </div>
             </div>
         </div>

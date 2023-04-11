@@ -24,7 +24,7 @@ export default function Portfolio(){
             <div className="col-sm-6">
             <div className="card" style={cardHolder}>
             <div className="card-title" style={cardStyle}>
-                <h3 className="text-center"><a href="https://iwanna.herokuapp.com/">🦎iWanna</a></h3>
+                <h3 className="text-center"><a href="https://iwanna2-17-22.herokuapp.com/">🦎iWanna</a></h3>
             </div>
             <div className="card-body d-flex text-center">
                 <a href="https://github.com/Audrey-505/iWanna-mvc"><img src={require("../images/github.png")} width="15%"/></a>
