@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4ac28268.css",
-    "main.js": "/portfolio/static/js/main.b14e5293.js",
+    "main.css": "/portfolio/static/css/main.756af292.css",
+    "main.js": "/portfolio/static/js/main.a1d1952d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/portAudrey.JPG": "/portfolio/static/media/portAudrey.d7cb0c11505fff6ac993.JPG",
     "static/media/ExpressJS-logo.png": "/portfolio/static/media/ExpressJS-logo.6a3e055a6226b08114ef.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.a8118ec6332509f7fdc6.pdf",
+    "static/media/AdrianaAQResume.pdf": "/portfolio/static/media/AdrianaAQResume.54e3e1c261ff0919f97b.pdf",
     "static/media/mongoose.png": "/portfolio/static/media/mongoose.91be34a5226500b1eeed.png",
     "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
     "static/media/logo.png": "/portfolio/static/media/logo.4c7b9393775eb4f9138e.png",
@@ -20,12 +20,12 @@
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.4ac28268.css.map": "/portfolio/static/css/main.4ac28268.css.map",
-    "main.b14e5293.js.map": "/portfolio/static/js/main.b14e5293.js.map",
+    "main.756af292.css.map": "/portfolio/static/css/main.756af292.css.map",
+    "main.a1d1952d.js.map": "/portfolio/static/js/main.a1d1952d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ac28268.css",
-    "static/js/main.b14e5293.js"
+    "static/css/main.756af292.css",
+    "static/js/main.a1d1952d.js"
   ]
 }
