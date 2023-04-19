@@ -8,7 +8,7 @@ export default function Resume(){
             <div className="text-center">
             {/* <h1>Reume</h1> */}
             <h3>Click the link below to download my resume</h3>
-            <a href={require("../resume/AdrianaAQ Resume.pdf")}><h4>Adriana's Resume</h4></a>
+            <a href={require("../resume/AdrianaAQResume.pdf")}><h4>Adriana's Resume</h4></a>
             </div>
 
             <hr />
